@@ -1,0 +1,18 @@
+@charset "UTF-8"
+body { 
+    background-color:aquamarine;
+}
+h1 { 
+    color: blue;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color:aqua;
+font-size: 30px;
+}
+h2 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:aqua;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
